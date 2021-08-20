@@ -1,0 +1,15 @@
+{
+    "name": "amichels/test-plugin",
+    "description": "Cooles Plugin",
+    "authors": [
+        {
+            "name": "Andre Michels",
+            "email": "amichels@databay.de"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.5"
+    }
+}
